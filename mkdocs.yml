@@ -1,4 +1,4 @@
-site_name: Arista CVP collection
+site_name: Arista CVP collection Doc
 site_author: Arista Ansible Team
 site_description: Arista Cloudvision collection's documentation
 docs_dir: ansible_collections/arista/cvp/
